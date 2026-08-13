@@ -1,0 +1,139 @@
+"ticket_id","customer_id","clean_status","clean_category","clean_created_at"
+TCK-0002,CUST-041,Open,Akses Akun,2024-08-18
+TCK-0003,CUST-060,Closed,Akses Akun,2024-06-25
+TCK-0004,CUST-017,Closed,Permintaan Fitur,2024-10-27
+TCK-0005,CUST-024,In Progress,Kendala Tagihan,2024-09-14
+TCK-0006,CUST-008,Closed,Kendala Tagihan,2024-03-19
+TCK-0007,CUST-039,Open,Kendala Tagihan,2024-06-14
+TCK-0008,CUST-091,In Progress,Kendala Tagihan,2024-09-22
+TCK-0009,CUST-037,In Progress,Kendala Tagihan,2024-04-10
+TCK-0010,CUST-082,In Progress,Permintaan Fitur,2024-03-05
+TCK-0011,CUST-081,Closed,Bug Sistem,2024-09-30
+TCK-0012,CUST-012,Closed,Permintaan Fitur,2024-03-27
+TCK-0013,CUST-076,Open,Permintaan Fitur,2024-03-28
+TCK-0014,CUST-085,Closed,Permintaan Fitur,2024-06-21
+TCK-0016,CUST-011,Closed,Kendala Tagihan,2024-10-22
+TCK-0017,CUST-034,Open,Akses Akun,2024-10-19
+TCK-0018,CUST-054,Closed,Permintaan Fitur,2024-01-16
+TCK-0019,CUST-064,Closed,Akses Akun,2024-05-28
+TCK-0020,CUST-083,In Progress,Bug Sistem,2024-05-05
+TCK-0022,CUST-059,Closed,Kendala Tagihan,2024-01-31
+TCK-0023,CUST-021,In Progress,Bug Sistem,2024-09-04
+TCK-0024,CUST-060,In Progress,Kendala Tagihan,2024-03-14
+TCK-0025,CUST-041,In Progress,Akses Akun,2024-06-25
+TCK-0026,CUST-052,Closed,Kendala Tagihan,2024-07-08
+TCK-0027,CUST-066,Open,Permintaan Fitur,2024-06-12
+TCK-0028,CUST-031,Open,Bug Sistem,2024-05-16
+TCK-0029,CUST-058,Open,Kendala Tagihan,2024-02-19
+TCK-0030,CUST-007,In Progress,Bug Sistem,2024-08-02
+TCK-0031,CUST-032,Closed,Kendala Tagihan,2024-06-16
+TCK-0032,CUST-074,In Progress,Akses Akun,2024-04-07
+TCK-0033,CUST-098,In Progress,Kendala Tagihan,2024-09-20
+TCK-0034,CUST-060,In Progress,Bug Sistem,2024-09-11
+TCK-0035,CUST-003,In Progress,Kendala Tagihan,2024-09-15
+TCK-0036,CUST-059,Open,Kendala Tagihan,2024-10-25
+TCK-0037,CUST-046,Open,Kendala Tagihan,2024-05-24
+TCK-0038,CUST-064,Closed,Permintaan Fitur,2024-08-28
+TCK-0039,CUST-037,Open,Permintaan Fitur,2024-02-25
+TCK-0040,CUST-056,In Progress,Kendala Tagihan,2024-07-06
+TCK-0041,CUST-098,In Progress,Bug Sistem,2024-01-24
+TCK-0042,CUST-052,Closed,Kendala Tagihan,2024-10-14
+TCK-0043,CUST-025,Closed,Bug Sistem,2024-05-27
+TCK-0044,CUST-010,Closed,Bug Sistem,2024-08-18
+TCK-0045,CUST-098,In Progress,Permintaan Fitur,2024-03-01
+TCK-0046,CUST-017,In Progress,Kendala Tagihan,2024-07-10
+TCK-0048,CUST-097,Open,Kendala Tagihan,2024-09-17
+TCK-0049,CUST-052,Open,Permintaan Fitur,2024-01-24
+TCK-0050,CUST-005,Closed,Kendala Tagihan,2024-06-19
+TCK-0052,CUST-020,Closed,Permintaan Fitur,2024-03-12
+TCK-0053,CUST-042,In Progress,Permintaan Fitur,2024-03-24
+TCK-0054,CUST-051,Closed,Permintaan Fitur,2024-06-02
+TCK-0055,CUST-076,Closed,Bug Sistem,2024-09-17
+TCK-0056,CUST-069,Closed,Bug Sistem,2024-10-15
+TCK-0057,CUST-039,Closed,Bug Sistem,2024-01-09
+TCK-0058,CUST-048,Closed,Bug Sistem,2024-02-26
+TCK-0059,CUST-054,In Progress,Permintaan Fitur,2024-01-14
+TCK-0060,CUST-077,In Progress,Bug Sistem,2024-10-23
+TCK-0061,CUST-074,Closed,Kendala Tagihan,2024-01-27
+TCK-0062,CUST-075,Open,Bug Sistem,2024-09-25
+TCK-0063,CUST-081,Closed,Akses Akun,2024-07-13
+TCK-0064,CUST-019,Open,Akses Akun,2024-01-17
+TCK-0065,CUST-074,Open,Akses Akun,2024-04-07
+TCK-0066,CUST-003,In Progress,Bug Sistem,2024-08-02
+TCK-0067,CUST-020,Closed,Bug Sistem,2024-04-14
+TCK-0068,CUST-053,Closed,Permintaan Fitur,2024-08-29
+TCK-0070,CUST-091,Closed,Kendala Tagihan,2024-04-16
+TCK-0071,CUST-072,Closed,Bug Sistem,2024-09-01
+TCK-0072,CUST-068,In Progress,Bug Sistem,2024-03-29
+TCK-0073,CUST-059,In Progress,Permintaan Fitur,2024-10-06
+TCK-0074,CUST-046,Closed,Akses Akun,2024-05-15
+TCK-0075,CUST-079,Open,Bug Sistem,2024-05-06
+TCK-0076,CUST-036,In Progress,Permintaan Fitur,2024-04-25
+TCK-0077,CUST-039,Closed,Bug Sistem,2024-04-16
+TCK-0078,CUST-089,In Progress,Akses Akun,2024-06-11
+TCK-0079,CUST-062,Closed,Bug Sistem,2024-05-20
+TCK-0080,CUST-037,Closed,Kendala Tagihan,2024-10-05
+TCK-0081,CUST-049,Closed,Bug Sistem,2024-06-25
+TCK-0082,CUST-099,In Progress,Kendala Tagihan,2024-01-22
+TCK-0083,CUST-037,Open,Akses Akun,2024-06-26
+TCK-0084,CUST-057,In Progress,Akses Akun,2024-09-02
+TCK-0085,CUST-028,Closed,Kendala Tagihan,2024-10-02
+TCK-0086,CUST-035,Closed,Permintaan Fitur,2024-05-19
+TCK-0087,CUST-018,Closed,Kendala Tagihan,2024-10-27
+TCK-0088,CUST-031,Open,Kendala Tagihan,2024-09-28
+TCK-0089,CUST-029,Open,Akses Akun,2024-01-27
+TCK-0090,CUST-013,In Progress,Bug Sistem,2024-08-29
+TCK-0091,CUST-013,Closed,Akses Akun,2024-03-11
+TCK-0092,CUST-001,Open,Permintaan Fitur,2024-07-27
+TCK-0093,CUST-084,In Progress,Bug Sistem,2024-04-12
+TCK-0094,CUST-097,In Progress,Bug Sistem,2024-05-26
+TCK-0095,CUST-083,Closed,Kendala Tagihan,2024-02-15
+TCK-0096,CUST-084,Open,Permintaan Fitur,2024-09-30
+TCK-0097,CUST-095,Closed,Akses Akun,2024-01-20
+TCK-0098,CUST-023,Closed,Bug Sistem,2024-03-31
+TCK-0099,CUST-005,Closed,Bug Sistem,2024-09-10
+TCK-0100,CUST-024,Closed,Akses Akun,2024-05-28
+TCK-0101,CUST-005,In Progress,Kendala Tagihan,2024-10-17
+TCK-0102,CUST-078,In Progress,Kendala Tagihan,2024-05-25
+TCK-0103,CUST-059,Closed,Akses Akun,2024-09-25
+TCK-0104,CUST-064,Closed,Kendala Tagihan,2024-09-15
+TCK-0105,CUST-060,Open,Bug Sistem,2024-02-27
+TCK-0106,CUST-043,Closed,Kendala Tagihan,2024-08-22
+TCK-0107,CUST-083,Closed,Bug Sistem,2024-04-05
+TCK-0108,CUST-002,In Progress,Akses Akun,2024-05-31
+TCK-0109,CUST-073,Closed,Akses Akun,2024-04-08
+TCK-0110,CUST-023,Closed,Permintaan Fitur,2024-07-26
+TCK-0112,CUST-012,Closed,Bug Sistem,2024-02-18
+TCK-0113,CUST-024,In Progress,Kendala Tagihan,2024-06-14
+TCK-0114,CUST-032,In Progress,Kendala Tagihan,2024-07-15
+TCK-0115,CUST-031,Closed,Bug Sistem,2024-05-16
+TCK-0116,CUST-043,Closed,Bug Sistem,2024-10-20
+TCK-0117,CUST-002,Closed,Bug Sistem,2024-07-03
+TCK-0118,CUST-089,Open,Kendala Tagihan,2024-03-01
+TCK-0119,CUST-060,Open,Bug Sistem,2024-07-26
+TCK-0120,CUST-088,Closed,Permintaan Fitur,2024-06-08
+TCK-0121,CUST-089,Closed,Kendala Tagihan,2024-05-31
+TCK-0122,CUST-048,Open,Permintaan Fitur,2024-04-22
+TCK-0123,CUST-018,Open,Bug Sistem,2024-08-20
+TCK-0124,CUST-096,In Progress,Permintaan Fitur,2024-07-31
+TCK-0125,CUST-090,In Progress,Permintaan Fitur,2024-10-02
+TCK-0127,CUST-098,Closed,Kendala Tagihan,2024-02-11
+TCK-0128,CUST-068,Closed,Bug Sistem,2024-07-04
+TCK-0129,CUST-010,Open,Permintaan Fitur,2024-02-01
+TCK-0131,CUST-074,Open,Permintaan Fitur,2024-03-25
+TCK-0132,CUST-042,In Progress,Permintaan Fitur,2024-02-29
+TCK-0133,CUST-088,Closed,Kendala Tagihan,2024-10-25
+TCK-0134,CUST-063,Closed,Kendala Tagihan,2024-08-16
+TCK-0136,CUST-066,In Progress,Bug Sistem,2024-10-15
+TCK-0137,CUST-008,In Progress,Permintaan Fitur,2024-06-06
+TCK-0138,CUST-093,In Progress,Kendala Tagihan,2024-05-10
+TCK-0140,CUST-075,Open,Kendala Tagihan,2024-08-04
+TCK-0141,CUST-045,Open,Akses Akun,2024-10-04
+TCK-0142,CUST-008,In Progress,Kendala Tagihan,2024-01-17
+TCK-0143,CUST-037,Open,Bug Sistem,2024-03-10
+TCK-0144,CUST-099,Closed,Akses Akun,2024-08-03
+TCK-0145,CUST-048,In Progress,Bug Sistem,2024-07-12
+TCK-0146,CUST-049,Closed,Kendala Tagihan,2024-10-03
+TCK-0147,CUST-018,Closed,Akses Akun,2024-06-27
+TCK-0148,CUST-016,Closed,Kendala Tagihan,2024-07-20
+TCK-0149,CUST-068,Closed,Kendala Tagihan,2024-04-24

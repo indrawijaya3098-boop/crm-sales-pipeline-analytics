@@ -1,0 +1,101 @@
+"customer_id","company_name","email","original_province","clean_province","clean_join_date"
+CUST-001,CV Maju Bersama 4,kontak@majubersama.co.id,,Unknown,2023-05-21
+CUST-002,Toko Berkah Utama 18,kontak@tokoberkahutama.co.id,,Unknown,2023-02-22
+CUST-003,PT Logistik Jaya 5,kontak@logistikjaya.co.id,DKI Jakarta,DKI Jakarta,2023-02-17
+CUST-004,Toko Berkah Utama 65,kontak@tokoberkahutama.co.id,Semarang,Jawa Tengah,2023-01-14
+CUST-005,PT Solusi Data 54,kontak@solusidata.co.id,Surabaya,Jawa Timur,2023-08-18
+CUST-006,PT Nusantara Tech 98,kontak@nusantaratech.co.id, Jakarta ,DKI Jakarta,
+CUST-007,Kopi Sejahtera Group 36,kontak@kopisejahteragroup.co.id, Jakarta ,DKI Jakarta,2023-04-21
+CUST-008,CV Maju Bersama 12,kontak@majubersama.co.id,BDG,Jawa Barat,2023-02-19
+CUST-009,Kopi Sejahtera Group 78,kontak@kopisejahteragroup.co.id,SURABAYA,Jawa Timur,2024-02-18
+CUST-010,PT Nusantara Tech Duplicate,dup@nusantara.co.id,DKI Jakarta,DKI Jakarta,2023-05-10
+CUST-011,CV Maju Bersama 71,kontak@majubersama.co.id,SURABAYA,Jawa Timur,2024-02-29
+CUST-012,Toko Berkah Utama 91,kontak@tokoberkahutama.co.id,JAKARTA,DKI Jakarta,2023-01-24
+CUST-013,PT Digital Nusantara 11,kontak@digitalnusantara.co.id,Surabaya,Jawa Timur,2024-03-19
+CUST-014,PT Logistik Jaya 36,kontak@logistikjaya.co.id,Jawa Barat,Jawa Barat,2023-11-22
+CUST-015,PT Sinar Harapan 48,kontak@sinarharapan.co.id,Bandung,Jawa Barat,2023-04-18
+CUST-016,CV Maju Bersama 78,kontak@majubersama.co.id,Makassar,Sulawesi Selatan,2023-03-29
+CUST-017,PT Sinar Harapan 60,kontak@sinarharapan.co.id,BDG,Jawa Barat,2023-05-19
+CUST-018,Kopi Sejahtera Group 99,kontak@kopisejahteragroup.co.id,DKI Jakarta,DKI Jakarta,2023-04-28
+CUST-019,Kopi Sejahtera Group 52,kontak@kopisejahteragroup.co.id,SURABAYA,Jawa Timur,2023-02-03
+CUST-020,Kopi Sejahtera Group 28,kontak@kopisejahteragroup.co.id,Makassar,Sulawesi Selatan,
+CUST-021,CV Karya Mandiri 19,kontak@karyamandiri.co.id,SURABAYA,Jawa Timur,2023-03-13
+CUST-022,PT Solusi Data 69,kontak@solusidata.co.id,SURABAYA,Jawa Timur,
+CUST-023,PT Logistik Jaya 47,kontak@logistikjaya.co.id,Surabaya,Jawa Timur,
+CUST-024,CV Maju Bersama 97,kontak@majubersama.co.id,DKI Jakarta,DKI Jakarta,2024-03-16
+CUST-025,CV Maju Bersama Dup,dup@maju.co.id,Surabaya,Jawa Timur,2023-06-12
+CUST-026,CV Maju Bersama 50,kontak@majubersama.co.id,BDG,Jawa Barat,
+CUST-027,PT Solusi Data 33,kontak@solusidata.co.id,Medan,Sumatera Utara,2024-03-16
+CUST-028,CV Maju Bersama 88,kontak@majubersama.co.id,Medan,Sumatera Utara,2024-01-20
+CUST-029,Kopi Sejahtera Group 15,kontak@kopisejahteragroup.co.id,SURABAYA,Jawa Timur,2023-08-11
+CUST-030,CV Karya Mandiri 1,kontak@karyamandiri.co.id,,Unknown,2024-03-24
+CUST-031,PT Solusi Data 98,kontak@solusidata.co.id, Jakarta ,DKI Jakarta,2023-09-17
+CUST-032,PT Digital Nusantara 82,kontak@digitalnusantara.co.id,Medan,Sumatera Utara,2023-11-08
+CUST-033,PT Sinar Harapan 48,kontak@sinarharapan.co.id, Jakarta ,DKI Jakarta,2023-10-04
+CUST-034,Kopi Sejahtera Group 63,kontak@kopisejahteragroup.co.id,DKI Jakarta,DKI Jakarta,2023-02-27
+CUST-035,PT Digital Nusantara 31,kontak@digitalnusantara.co.id,DKI Jakarta,DKI Jakarta,2023-05-04
+CUST-036,CV Maju Bersama 94,kontak@majubersama.co.id,Jawa Barat,Jawa Barat,2024-02-22
+CUST-037,PT Solusi Data 99,kontak@solusidata.co.id, Jakarta ,DKI Jakarta,
+CUST-038,PT Solusi Data 22,kontak@solusidata.co.id,SURABAYA,Jawa Timur,
+CUST-039,Toko Berkah Utama 70,kontak@tokoberkahutama.co.id,,Unknown,2023-12-20
+CUST-040,PT Digital Nusantara 52,kontak@digitalnusantara.co.id,Makassar,Sulawesi Selatan,2023-11-29
+CUST-041,CV Karya Mandiri 67,kontak@karyamandiri.co.id,Jawa Barat,Jawa Barat,2023-03-03
+CUST-042,Toko Berkah Utama 9,kontak@tokoberkahutama.co.id,Bandung,Jawa Barat,2023-01-11
+CUST-043,Toko Berkah Utama 1,kontak@tokoberkahutama.co.id,JAKARTA,DKI Jakarta,2023-12-29
+CUST-044,Toko Berkah Utama 9,kontak@tokoberkahutama.co.id,DKI Jakarta,DKI Jakarta,2024-03-16
+CUST-045,CV Maju Bersama 66,kontak@majubersama.co.id,Surabaya,Jawa Timur,
+CUST-046,Toko Berkah Utama 70,kontak@tokoberkahutama.co.id, Jakarta ,DKI Jakarta,
+CUST-047,Toko Berkah Utama 61,kontak@tokoberkahutama.co.id,BDG,Jawa Barat,2023-04-08
+CUST-048,CV Maju Bersama 85,kontak@majubersama.co.id,BDG,Jawa Barat,
+CUST-049,PT Logistik Jaya 60,kontak@logistikjaya.co.id,,Unknown,2023-01-28
+CUST-050,PT Nusantara Tech 52,kontak@nusantaratech.co.id,,Unknown,2023-06-23
+CUST-051,Toko Berkah Utama 25,kontak@tokoberkahutama.co.id,Surabaya,Jawa Timur,
+CUST-052,PT Sinar Harapan 55,kontak@sinarharapan.co.id, Jakarta ,DKI Jakarta,
+CUST-053,Toko Berkah Utama 10,kontak@tokoberkahutama.co.id,Jawa Barat,Jawa Barat,2024-02-18
+CUST-054,PT Nusantara Tech 84,kontak@nusantaratech.co.id,Medan,Sumatera Utara,2024-03-04
+CUST-055,CV Maju Bersama 97,kontak@majubersama.co.id,Surabaya,Jawa Timur,
+CUST-056,CV Karya Mandiri 62,kontak@karyamandiri.co.id,Surabaya,Jawa Timur,
+CUST-057,PT Nusantara Tech 22,kontak@nusantaratech.co.id,BDG,Jawa Barat,
+CUST-058,PT Digital Nusantara 59,kontak@digitalnusantara.co.id,SURABAYA,Jawa Timur,
+CUST-059,PT Sinar Harapan 25,kontak@sinarharapan.co.id,SURABAYA,Jawa Timur,2023-04-22
+CUST-060,PT Solusi Data 8,kontak@solusidata.co.id,,Unknown,2023-06-10
+CUST-061,PT Nusantara Tech 75,kontak@nusantaratech.co.id,Jawa Barat,Jawa Barat,2023-09-15
+CUST-062,PT Nusantara Tech 66,kontak@nusantaratech.co.id,JAKARTA,DKI Jakarta,2024-03-11
+CUST-063,CV Maju Bersama 77,kontak@majubersama.co.id,JAKARTA,DKI Jakarta,2023-12-12
+CUST-064,PT Logistik Jaya 16,kontak@logistikjaya.co.id,Semarang,Jawa Tengah,2023-05-07
+CUST-065,CV Maju Bersama 54,kontak@majubersama.co.id,Makassar,Sulawesi Selatan,2023-10-26
+CUST-066,PT Digital Nusantara 27,kontak@digitalnusantara.co.id,Makassar,Sulawesi Selatan,2024-01-02
+CUST-067,Toko Berkah Utama 34,kontak@tokoberkahutama.co.id,BDG,Jawa Barat,2023-03-09
+CUST-068,CV Karya Mandiri 41,kontak@karyamandiri.co.id,JAKARTA,DKI Jakarta,
+CUST-069,CV Maju Bersama 10,kontak@majubersama.co.id,Medan,Sumatera Utara,2023-04-20
+CUST-070,PT Sinar Harapan 45,kontak@sinarharapan.co.id,JAKARTA,DKI Jakarta,2024-03-26
+CUST-071,Kopi Sejahtera Group 37,kontak@kopisejahteragroup.co.id, Jakarta ,DKI Jakarta,2023-08-13
+CUST-072,PT Solusi Data 2,kontak@solusidata.co.id,Makassar,Sulawesi Selatan,2024-02-23
+CUST-073,CV Maju Bersama 18,kontak@majubersama.co.id,SURABAYA,Jawa Timur,2023-03-01
+CUST-074,PT Solusi Data 20,kontak@solusidata.co.id,SURABAYA,Jawa Timur,2023-05-25
+CUST-075,Kopi Sejahtera Group 27,kontak@kopisejahteragroup.co.id,Makassar,Sulawesi Selatan,2023-11-21
+CUST-076,PT Solusi Data 63,kontak@solusidata.co.id,SURABAYA,Jawa Timur,2024-04-08
+CUST-077,CV Maju Bersama 82,kontak@majubersama.co.id,BDG,Jawa Barat,2024-02-29
+CUST-078,PT Nusantara Tech 1,kontak@nusantaratech.co.id,Bandung,Jawa Barat,2024-01-30
+CUST-079,PT Digital Nusantara 21,kontak@digitalnusantara.co.id,,Unknown,
+CUST-080,PT Solusi Data 2,kontak@solusidata.co.id,JAKARTA,DKI Jakarta,2023-02-08
+CUST-081,PT Solusi Data 5,kontak@solusidata.co.id,Bandung,Jawa Barat,2023-10-26
+CUST-082,PT Logistik Jaya 17,kontak@logistikjaya.co.id,DKI Jakarta,DKI Jakarta,2023-06-07
+CUST-083,PT Nusantara Tech 46,kontak@nusantaratech.co.id,Surabaya,Jawa Timur,2023-12-16
+CUST-084,CV Maju Bersama 46,kontak@majubersama.co.id,Medan,Sumatera Utara,
+CUST-085,PT Sinar Harapan 31,kontak@sinarharapan.co.id, Jakarta ,DKI Jakarta,2024-05-14
+CUST-086,PT Logistik Jaya 4,kontak@logistikjaya.co.id, Jakarta ,DKI Jakarta,2024-01-13
+CUST-087,PT Logistik Jaya 86,kontak@logistikjaya.co.id,,Unknown,2024-02-20
+CUST-088,PT Digital Nusantara 21,kontak@digitalnusantara.co.id,,Unknown,
+CUST-089,PT Nusantara Tech 61,kontak@nusantaratech.co.id,Surabaya,Jawa Timur,
+CUST-090,Kopi Sejahtera Group 40,kontak@kopisejahteragroup.co.id,Surabaya,Jawa Timur,2023-04-25
+CUST-091,Toko Berkah Utama 52,kontak@tokoberkahutama.co.id,Bandung,Jawa Barat,2023-05-23
+CUST-092,PT Digital Nusantara 45,kontak@digitalnusantara.co.id,Makassar,Sulawesi Selatan,
+CUST-093,PT Solusi Data 43,kontak@solusidata.co.id,DKI Jakarta,DKI Jakarta,2023-03-01
+CUST-094,PT Sinar Harapan 75,kontak@sinarharapan.co.id,SURABAYA,Jawa Timur,2023-01-20
+CUST-095,PT Logistik Jaya 45,kontak@logistikjaya.co.id,,Unknown,2024-02-07
+CUST-096,PT Logistik Jaya 78,kontak@logistikjaya.co.id,Medan,Sumatera Utara,
+CUST-097,Toko Berkah Utama 33,kontak@tokoberkahutama.co.id,DKI Jakarta,DKI Jakarta,
+CUST-098,PT Nusantara Tech 67,kontak@nusantaratech.co.id,Medan,Sumatera Utara,2023-12-18
+CUST-099,Kopi Sejahtera Group 56,kontak@kopisejahteragroup.co.id,JAKARTA,DKI Jakarta,2024-04-30
+CUST-100,Kopi Sejahtera Group 85,kontak@kopisejahteragroup.co.id,JAKARTA,DKI Jakarta,2024-01-04
